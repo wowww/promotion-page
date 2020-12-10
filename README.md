@@ -1,9 +1,9 @@
 # 실행방법
 
 - 해당폴더(reat-form) 진입 후, `yarn install`   
-- 서버 실행: `yarn start`   
+- 서버 실행: `yarn start`     
 
-
+url: https://wowww.github.io/promotion-page/
 
 ---
 
